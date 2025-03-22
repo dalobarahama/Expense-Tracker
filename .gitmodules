@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:dalobarahama/expense-tracker-backend.git
+[submodule "web"]
+	path = web
+	url = git@github.com:dalobarahama/expense-tracker-web.git
